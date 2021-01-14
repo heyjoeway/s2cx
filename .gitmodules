@@ -1,6 +1,0 @@
-[submodule "Genesis-Plus-GX"]
-	path = Genesis-Plus-GX
-	url = https://github.com/heyjoeway/Genesis-Plus-GX/
-[submodule "s2disasm"]
-	path = s2disasm
-	url = https://github.com/heyjoeway/s2disasm
